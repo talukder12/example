@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.357" height="148.304" viewBox="0 0 161.357 148.304">
+  <g id="icon-text" transform="translate(-136.305 -3342.147)">
+    <path id="pointillés" d="M0,47.579S17.128-5.208,96.085.42" transform="translate(258.552 3488.03) rotate(-130)" fill="none" stroke="#4fcbff" stroke-linecap="round" stroke-width="3" stroke-dasharray="7"/>
+    <g id="Groupe_1565" data-name="Groupe 1565" transform="matrix(0.891, -0.454, 0.454, 0.891, -1509.217, 462.393)">
+      <g id="Groupe_1564" data-name="Groupe 1564" transform="translate(150.191 3342.191)">
+        <g id="Rectangle_271" data-name="Rectangle 271" transform="translate(-0.18 -0.18)" fill="none" stroke="#50cdff" stroke-width="3">
+          <rect width="55" height="55" rx="5" stroke="none"/>
+          <rect x="1.5" y="1.5" width="52" height="52" rx="3.5" fill="none"/>
+        </g>
+        <text id="T" transform="translate(27.82 42.82)" fill="#50cdff" font-size="48" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="-16" y="0">T</tspan></text>
+      </g>
+      <g id="Rectangle_272" data-name="Rectangle 272" transform="translate(146.011 3338.011)" fill="#fff" stroke="#50cdff" stroke-width="2">
+        <rect width="10" height="10" stroke="none"/>
+        <rect x="1" y="1" width="8" height="8" fill="none"/>
+      </g>
+      <g id="Rectangle_273" data-name="Rectangle 273" transform="translate(198.011 3338.011)" fill="#fff" stroke="#50cdff" stroke-width="2">
+        <rect width="10" height="10" stroke="none"/>
+        <rect x="1" y="1" width="8" height="8" fill="none"/>
+      </g>
+      <g id="Rectangle_274" data-name="Rectangle 274" transform="translate(198.011 3390.011)" fill="#fff" stroke="#50cdff" stroke-width="2">
+        <rect width="10" height="10" stroke="none"/>
+        <rect x="1" y="1" width="8" height="8" fill="none"/>
+      </g>
+      <g id="Rectangle_275" data-name="Rectangle 275" transform="translate(146.011 3390.011)" fill="#fff" stroke="#50cdff" stroke-width="2">
+        <rect width="10" height="10" stroke="none"/>
+        <rect x="1" y="1" width="8" height="8" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
